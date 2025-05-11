@@ -1,5 +1,5 @@
 <template>
-   
+   <div>Features</div>
 </template>
 
 <script lang="ts" setup>

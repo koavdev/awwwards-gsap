@@ -1,7 +1,10 @@
 <template>
     <main className="relative min-h-screen w-screen overflow-x-hidden">
-      <NavBar />
+      <Navbar />
       <Hero />
+      <section class="z-0 min-h-screen bg-blue-500">
+
+      </section>
       <About />
       <Features />
       <Story />
